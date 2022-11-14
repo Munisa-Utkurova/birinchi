@@ -27,7 +27,8 @@ names=[ 'Abdujabborova Dinora',
         'Xidirbayeva Muxlisa',
         'Xushmuratova Madina',
         'Ziyodullayeva Maftuna',
-        'O‘ralova Charos' 
+        'O‘ralova Charos',
+        'Yana kimdir' 
 ]
 
 dict={} 
